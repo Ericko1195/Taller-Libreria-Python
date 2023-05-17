@@ -13,7 +13,7 @@ cómo hacerlo.
 
 ### Respuesta
 
-R
+La Licencia MIT permite usar, copiar, modificar, publicar, distribuir y vender copias del software y su documentación sin restricciones. Se debe incluir el aviso de copyright y la declaración de licencia en todas las copias y trabajos derivados. Importantemente, los autores no se hacen responsables por daños directos o indirectos.
 
 ## Pregunta 2
 
@@ -21,7 +21,7 @@ R
 
 ### Respuesta
 
-R
+Es una iniciativa que promueve la accesibilidad, transparencia, colaboración, reproducibilidad y responsabilidad de los resultados, datos, herramientas y recursos entre la comunidad científica y el público en genral. Tiene el objetivo de mejorar la calidad y el impacto de la investigación. 
 
 ## Pregunta 3
 
