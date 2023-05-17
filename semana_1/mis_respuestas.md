@@ -13,7 +13,7 @@ cómo hacerlo.
 
 ### Respuesta
 
-
+R
 
 ## Pregunta 2
 
@@ -21,7 +21,7 @@ cómo hacerlo.
 
 ### Respuesta
 
-
+R
 
 ## Pregunta 3
 
