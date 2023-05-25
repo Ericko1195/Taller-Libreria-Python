@@ -128,7 +128,8 @@ talleres para ayudar a los investigadores a adquirir habilidades de desarrollo d
 
 ## Pregunta 11
 
-> ¿Qué es una «Cookiecutter» en el contexto del desarrollo de software? ¿Para qué sirve este repositorio?
+> ¿Qué es una «Cookiecutter» en el contexto del desarrollo de software? ¿Para qué sirve [este 
+> repositorio](https://github.com/MolSSI/cookiecutter-cms)?
 
 ### Respuesta
 
